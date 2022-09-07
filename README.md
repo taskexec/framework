@@ -3,8 +3,8 @@
 Add dependency in pom.xml
 ```
 <dependency>
-	<groupId>org.task.execution.framework</groupId>
-	<artifactId>org.task.execution.framework</artifactId>
+	<groupId>io.github.taskexec</groupId>
+	<artifactId>framework</artifactId>
 	<version>1.0.0</version>
 </dependency>
 
